@@ -27,6 +27,7 @@ npx tailwindcss -i ./src/style/main.css -o ./src/style/style.css --watch
 ```
 
 **Coding Time** 😎
+--- 
 
 ## Version
 
