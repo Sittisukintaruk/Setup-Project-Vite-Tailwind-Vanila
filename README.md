@@ -15,7 +15,7 @@
 
 ```cmd
 
-cd Vite+Tailwind
+cd Setup-Project-Vite-Tailwind-Vanila
 npm i
 npm run dev
 ```
