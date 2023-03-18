@@ -23,7 +23,7 @@ npm run dev
 หลักจากนั้นให้ทำการ **`Watch`** Tailwind ด้วยคำสั้ง
 
 ```cmd
-npx tailwindcss -i ./src/style/main.css -o ./src/style/style.css --watch
+npx tailwindcss -i ./style/main.css -o ./style/style.css --watch
 ```
 
 **Coding Time** 😎
