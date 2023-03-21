@@ -19,6 +19,12 @@ module.exports = {
       gray: "#8492a6",
       "gray-light": "#d3dce6",
     },
+    fontSize: {
+      sm: ["0.875rem", "1.25rem"],
+      base: ["1rem", "1.5rem"],
+      lg: ["1.25rem", "1.75rem"],
+      xl: ["1.5rem", "2rem"],
+    },
     fontFamily: {
       sans: ["Graphik", "sans-serif"],
       serif: ["Merriweather", "serif"],
