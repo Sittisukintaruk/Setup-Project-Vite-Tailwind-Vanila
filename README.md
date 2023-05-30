@@ -25,6 +25,7 @@ npm run dev
 ```cmd
 npx tailwindcss -i ./style/main.css -o ./style/style.css --watch
 ```
+**หมายเหตุ อย่างลืมลบ โฟรเดอร์ git ด้วย เปิด view กด show hide เพื่อที่จะลบ
 
 **Coding Time** 😎
 
